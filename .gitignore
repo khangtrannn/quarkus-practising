@@ -33,3 +33,4 @@ lsp
 dummy/
 node/
 node_modules/
+.vscode/
